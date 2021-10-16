@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Tiqur/iknowjp-scraper#readme",
   "dependencies": {
-    "puppeteer": "^10.4.0"
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
   }
 }
